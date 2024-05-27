@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all files with the .tmp extension
+*.tmp
+
+# Ignore all files in the dist directory
+dist/
+
+# Ignore the .env file
+.env
